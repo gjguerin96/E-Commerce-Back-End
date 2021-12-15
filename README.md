@@ -9,7 +9,7 @@ Run npm install to install the necessary node packages, use mysql to source the 
 ## Usage
 See video walkthrough below. Use node to activate the server from the command line, and then use insomnia to access the get, post, put, and delete routes for the models (tags, categories, and products).
 
-Video walkthrough: 
+Video walkthrough: https://drive.google.com/file/d/1dbl9k6WsM_PAWIJAfFyLEospZalPZQNJ/view?usp=sharing
 
 ## Credits
 This application was partly pre-built, I added to the models, routes, and the server file.
